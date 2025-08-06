@@ -1,1 +1,1 @@
-console.log("hi, soyeon");
+console.log("hi, soyeon, Nice to meet you!");
