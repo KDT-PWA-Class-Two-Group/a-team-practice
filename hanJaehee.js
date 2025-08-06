@@ -1,1 +1,2 @@
-console.log(" 한재희 테스트입니다 ");
+let comment = "브랜치 연습 중";
+console.log(comment);
